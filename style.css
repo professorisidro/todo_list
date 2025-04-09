@@ -1,0 +1,19 @@
+body{
+    font-family: Arial;
+}
+
+div{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+
+.tarefaincompleta{
+    background-color: green;
+    color: white;
+}
+
+.tarefacompleta{
+    background-color: gray;
+    text-decoration: line-through;
+}
